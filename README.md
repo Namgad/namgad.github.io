@@ -396,7 +396,7 @@ Currently, I have already added a separate for each project ( considering there 
             tempora, explicabo quae quod deserunt eius sapiente praesentium.
           </p>
           <a
-                  href="caseStudies/networkonCaseStudy.html"
+                  href="caseStudies/NetworkonCaseStudy.html"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
           >Case Study</a
@@ -419,7 +419,7 @@ Currently, I have already added a separate for each project ( considering there 
             tempora, explicabo quae quod deserunt eius sapiente praesentium.
           </p>
           <a
-                  href="caseStudies/project-2.html"
+                  href="caseStudies/WorkverseCaseStudy.html"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
           >Case Study</a
@@ -442,7 +442,7 @@ Currently, I have already added a separate for each project ( considering there 
             tempora, explicabo quae quod deserunt eius sapiente praesentium.
           </p>
           <a
-                  href="caseStudies/project-3.html"
+                  href="caseStudies/DigGrowthCaseStudy.html"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
           >Case Study</a
